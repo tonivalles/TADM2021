@@ -3,3 +3,6 @@
 # Clase 2: R y Python básicos
 ### Profesores: Juan Gabriel y Ricardo
 
+#### Fecha: 21/10/2020
+
+
