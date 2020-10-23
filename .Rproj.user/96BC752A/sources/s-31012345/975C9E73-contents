@@ -1,0 +1,42 @@
+---
+title: "Estructuras de datos"
+author: "Toni Vallès"
+date: "23/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Vectores
+
+Todos los objetos que el vector contiene deben ser del mismo tipo
+
+* Lógicos o booleanos (`logical`) `TRUE` o `FALSE`
+* Númerico: `integer`, `numeric`, `complex`...
+* string: `character`
+
+```{r}
+cuad = function(x){ 
+  x^2
+}
+cuad(x)
+```
+
+
+# Listas 
+
+Contienen conjuntos de datos que pueden ser heterogéneos
+
+
+
+
+
+
+
+
+
+
+
+
