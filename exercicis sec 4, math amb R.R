@@ -52,3 +52,9 @@ round(3*exp(-pi),3)
 #### (2+3i)^2/(5+8i)= (4+9i^2)/(5+8i) = 4/5 + (9/8)i
 funcomp = complex(real = (4/5), imaginary = (9/8))
 round(Mod(funcomp),3)
+
+
+
+
+
+

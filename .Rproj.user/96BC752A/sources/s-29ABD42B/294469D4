@@ -3,7 +3,7 @@
     "path": "C:/Users/Toni/Desktop/MASTER/Tecnologia para el analisis de datos masivos/TADM2021/TADM2021/exercicis sec 4, math amb R.R",
     "project_path": "exercicis sec 4, math amb R.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1200409502",
     "contents": "",
     "dirty": false,
     "created": 1603384354441.0,
@@ -11,15 +11,15 @@
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled3",
-        "cursorPosition": "53,21",
-        "scrollLine": "0"
+        "cursorPosition": "54,0",
+        "scrollLine": "41"
     },
     "folds": "",
-    "lastKnownWriteTime": 1603384378,
+    "lastKnownWriteTime": 1603810365,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603384378857,
+    "last_content_update": 1603810365332,
     "read_only": false,
     "read_only_alternatives": []
 }

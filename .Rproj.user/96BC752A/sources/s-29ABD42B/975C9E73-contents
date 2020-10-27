@@ -1,0 +1,15 @@
+---
+title: "Estructuras de datos"
+author: "Toni Vallès"
+date: "23/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Vectores
+
+* Lógicos (`logical`) `TRUE` o `FALSE`
+* Númerico (`numeric`)

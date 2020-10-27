@@ -3,19 +3,22 @@
     "path": "C:/Users/Toni/AppData/Local/Temp/Temp2_r-basic-master.zip/r-basic-master/teoria/Tema3.Rmd",
     "project_path": null,
     "type": "r_markdown",
-    "hash": "1883498078",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1603467230322.0,
     "source_on_save": false,
     "relative_order": 4,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "452,0",
+        "scrollLine": "444"
+    },
     "folds": "",
     "lastKnownWriteTime": 1603467217,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1603467217,
+    "last_content_update": 1603810454815,
     "read_only": false,
     "read_only_alternatives": []
 }
