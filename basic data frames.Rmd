@@ -1,0 +1,33 @@
+---
+title: "basico data frames"
+author: "Toni Vallès"
+date: "27/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# Operaciones con Data frames básico
+si [buscamos en google iris dataset](https://www.google.com/search?sxsrf=ALeKk033uiUmM5IVKqlA3agpRuyEfJwlWg%3A1603813615765&ei=70CYX_agLpuW8gL_-KeACw&q=iris+data+set)
+
+```{r}
+apply(iris[,-5],MARGIN=2,FUN=mean)
+apply(iris[,1:4],MARGIN=2,FUN=mean)
+class(iris)
+str(iris)
+```
+```{r}
+lapply(iris,class)
+dim(iris)
+rownames(iris)
+rownames(iris) <- paste0("Flor",rownames(iris))
+head(iris)
+colnames(iris)
+names(iris)
+dimnames(iris)
+```
+
+
